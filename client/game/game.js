@@ -1,0 +1,6 @@
+// game logic/source code...
+// handle web sockets here...
+
+const canvas = document.getElementById("game");
+
+
